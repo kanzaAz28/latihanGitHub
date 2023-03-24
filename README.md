@@ -1,0 +1,2 @@
+# latihanGitHub
+membuat repo
